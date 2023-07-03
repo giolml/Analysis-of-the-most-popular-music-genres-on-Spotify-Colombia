@@ -1,0 +1,2 @@
+# Analysis-of-the-most-popular-music-genres-on-Spotify-Colombia
+In this project, a comprehensive analysis of the most listened songs on Spotify in Colombia is carried out, focusing on four popular music genres: pop, rock, hip-hop and electronic. The main objective is to provide up-to-date information on musical trends in the country and highlight the most influential artists and songs in each genre.
